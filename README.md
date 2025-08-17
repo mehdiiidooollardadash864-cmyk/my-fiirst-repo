@@ -1,6 +1,6 @@
 def generate_fibonacci(n):
     """
-    Generate a Fibonacci sequence up to the nth term..
+    Generate a Fibonacci sequence up to the nth term.
     
     Args:
         n (int): The number of terms to genera.
