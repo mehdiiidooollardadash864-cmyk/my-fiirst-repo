@@ -1,4 +1,4 @@
-def generate_fibonacci(n):"M
+def generate_fibonacci(n):"
     """
     Generate a Fibonacci sequence up  to  the nth term.
     
