@@ -26,6 +26,6 @@ if __name__ == "__main__":
     try:
         n = int(input("Enter the number of Fibonacci terms to generate: "))
         fib_sequence = generate_fibonacci(n)
-        print(f"Fibonacci sequence up to {n} terms: {fib_sequence}")
+        print(f"Fibonacci sequence up to  terms: {fib_sequence}")
     except ValueError:
         print("Please enter a valid integer.")
