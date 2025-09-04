@@ -9,7 +9,8 @@ def generate_fibonacci(n) :
         list: A list containing the Fibonacci sequence
     
     """
-    if n <= 0:
+    if n <= 0: 
+    mod ?W
         return []
     elif n == 1:
         return [0]
