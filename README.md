@@ -10,7 +10,7 @@ def generate_fibonacci(n) :
     
     """
     if n <= 0: 
-    mod ?W
+    mod ?
         return []
     elif n == 1:
         return [0]
