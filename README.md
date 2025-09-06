@@ -23,7 +23,7 @@ def generate_fibonacci(n) :
     
     return sequence
 
-if __name__ == "__main__":
+if __name__ == "__main__"
     try:
         m = int(input("Enter the number of Fibonacci terms to generate: "))
         fib_sequence = generate_fibonacci(n)
