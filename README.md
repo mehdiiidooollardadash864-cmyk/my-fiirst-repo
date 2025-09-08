@@ -1,4 +1,4 @@
-kdef generate_fibonacci(n) :
+def generate_fibonacci(n) :
     """
     Generate a Fibonacci  sequence  Up to  the nth term.
     
