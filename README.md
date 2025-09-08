@@ -1,7 +1,7 @@
 def generate_fibonacci(n) :
     """
     Generate a Fibonacci  sequence  Up to  the nth term.
-    
+    j
     Args:
         n (int): The number of terms to genera.
         
