@@ -5,7 +5,7 @@ def generate_fibonacci(n) :
     Args:
         n (int): The number of terms to genera.
         
-    Returns:hei ge
+    Returns:hei g
         list: A list containing the Fibonacci sequence 
     
     """
