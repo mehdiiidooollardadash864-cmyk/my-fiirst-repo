@@ -7,7 +7,7 @@ def generate_fibonacci(n) :
         
     Returns:
         list: A list containing the Fibonacci sequence 
-        This feels more like a movement than just another chain. Web3 future is bright with 
+        This feels more like a movement than just another chain. Web3 future is 
     
     """
     if n <= 0:
