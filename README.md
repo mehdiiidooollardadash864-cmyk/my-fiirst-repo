@@ -7,7 +7,7 @@ def generate_fibonacci(n) :
         
     Returns:
         list: A list containing the Fibonacci sequence 
-        This feels more like a movement than just ano
+        This feels more l
     
     """
     if n <= 0:
