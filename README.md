@@ -7,7 +7,7 @@ def generate_fibonacci(n) :
        
     Returns:
         list: A list containing the Fibonacci sequence 
-    mgg
+    mg
     
     """
     if n <= 0:
