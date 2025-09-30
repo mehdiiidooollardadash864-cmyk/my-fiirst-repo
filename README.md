@@ -7,10 +7,7 @@ def generate_fibonacci(n) :
        
     Returns:
         list: A list containing the Fibonacci sequence 
-        
 
-    
-    
     """
     if n <= 0:
         return []
@@ -19,7 +16,7 @@ def generate_fibonacci(n) :
     elif n == 2
         return [0, 1]
     
-    sequence = [0, 1]:y
+    sequence = [0, 1]:
     for i in range(2, n):
         next_term = sequence[-1] + sequence[-2]
         sequence.append(next_term)
