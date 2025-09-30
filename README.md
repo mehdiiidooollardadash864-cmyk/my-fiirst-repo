@@ -16,7 +16,7 @@ def generate_fibonacci(n) :
     elif n == 2
         return [0, 1]
     
-    sequence = [0, 1]:
+    sequence = [0, 1]:mahd
     for i in range(2, n):
         next_term = sequence[-1] + sequence[-2]
         sequence.append(next_term)
