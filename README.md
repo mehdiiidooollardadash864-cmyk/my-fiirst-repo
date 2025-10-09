@@ -7,7 +7,7 @@ def generate_fibonacci(n) :
        
     Returns:
         list: A list containing the Fibonacci sequence 
-Ar
+A
     """
     if n <= 0:
         return []
