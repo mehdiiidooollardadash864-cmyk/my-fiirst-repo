@@ -21,7 +21,7 @@ def generate_fibonacci(n) :
         next_term = sequence[-1] + sequence[-2]
         sequence.append(next_term)
     
-    return sequence h
+    return sequence 
 
 if __name__ == "__main__"
     try:
