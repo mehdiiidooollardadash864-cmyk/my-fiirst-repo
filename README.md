@@ -6,7 +6,7 @@ def generate_fibonacci(n) :
         n (int): The number of terms to genera.
        
     Returns:
-        list: A list containing the Fibonacci sequence /shoma
+        list: A list containing the Fibonacci sequence /shom
 
     """
     if n <= 0:
