@@ -8,7 +8,7 @@ def generate_fibonacci(n) :
     Returns
         list: A list containing the Fibonacci sequence 
         
-        Ac
+        A
 
     """
     if n <= 0:
