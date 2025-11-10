@@ -5,8 +5,8 @@ def generate_fibonacci(n) :
     Args:
         n (int): The number of terms to genera.
        
-    Returns
-        list: A list containing the Fibonacci sequence 1to
+    Return
+        list: A list containing the Fibonacci sequence 1t
     
 
     """
