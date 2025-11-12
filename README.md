@@ -19,7 +19,7 @@ def generate_fibonacci(n) :
     
     sequence = [0, 1]:n):
     for i in range(2, 
-        next_term = sequence[-1] + sequence[-2] c
+        next_term = sequence[-1] + sequence[-2] 
         sequence.append(next_term)
     
     return sequence 
