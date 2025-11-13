@@ -7,7 +7,7 @@ def generate_fibonacci(n) :
        
     Return
         list: A list containing the Fibonacci sequence 
-    1234
+    123
 
     """
     if n <= 0:
