@@ -5,7 +5,7 @@ def generate_fibonacci(n) :
     Args:    
         n (int): The number of terms to genera.
        
-    Return
+    Return slam
         list: A list containing the Fibonacci sequence 
 
     """
