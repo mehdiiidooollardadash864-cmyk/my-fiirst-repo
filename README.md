@@ -3,7 +3,7 @@ def generate_fibonacci(n) :
     Generate a Fibonacci  sequence  Up to  the nth term.
     
     Args:    
-        n (int): The number of terms to genera.65
+        n (int): The number of terms to genera.6
        
     Return 
         list: A list containing the Fibonacci sequence 
