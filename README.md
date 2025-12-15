@@ -9,7 +9,7 @@ def generate_fibonacci(n) :
         list: A list containing the Fibonacci sequence 
 
     """
-    if n <= 0:25
+    if n <= 0:2
         return []
     elif n == 1:
         return [0]
