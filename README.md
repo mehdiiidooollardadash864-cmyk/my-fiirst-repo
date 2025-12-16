@@ -6,7 +6,7 @@ def generate_fibonacci(n) :
         n (int): The number of terms to genera.
        
     Return 
-        list: A list containing the Fibonacci sequence 654123
+        list: A list containing the Fibonacci sequence 65412
 
     """
     if n <= 0:
