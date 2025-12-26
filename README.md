@@ -12,7 +12,7 @@ def generate_fibonacci(n) :
         return []
     elif n == 1:
         return [0]
-    elif n == 265
+    elif n == 26
         return [0, 1]
     
     sequence = [0, 1]:n):
