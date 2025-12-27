@@ -8,7 +8,6 @@ def generate_fibonacci(n) :
     Return 
         list: A list containing the Fibonacci sequence 
     """
-    0
     if n <= 0:
         return []
     elif n == 1:
