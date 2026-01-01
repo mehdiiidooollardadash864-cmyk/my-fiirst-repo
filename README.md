@@ -14,7 +14,7 @@ def generate_fibonacci(n) :
         return [0]
     elif n == 2
         return [0, 1]
-12
+1
     sequence = [0, 1]:n):
     for i in range(2, 
         next_term = sequence[-1] + sequence[-2] 
